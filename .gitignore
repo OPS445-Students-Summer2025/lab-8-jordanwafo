@@ -1,0 +1,3 @@
+ansible-venv/
+*.pyc
+__pycache__/
